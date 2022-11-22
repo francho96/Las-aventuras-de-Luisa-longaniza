@@ -2,6 +2,7 @@
 
 <b>To play, use the arrow keys to move, and the spacebar for jump</b>
 
+All the music was maded with a Casio TK-240, my legendary keyboard.
 
 This is the original cover sheet of the game:
 
